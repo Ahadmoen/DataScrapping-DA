@@ -1,6 +1,3 @@
-Here's the updated README with the requested changes:  
-
----
 
 # Project Title: Gaming Product Data Analysis and Modeling  
 
